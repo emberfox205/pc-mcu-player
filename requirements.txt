@@ -1,0 +1,5 @@
+charset-normalizer==3.4.1
+pillow==11.1.0
+pyserial==3.5
+setuptools==75.1.0
+wheel==0.44.0
