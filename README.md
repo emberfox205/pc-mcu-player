@@ -1,6 +1,6 @@
 # Computer-Microcontroller Player 
 
-Solution to display videos/animations directly from computer to a simulated Arduino-core microcontroller. 
+Solution to display videos/animations directly from computer to a simulated microcontroller. 
 
 ---
 
